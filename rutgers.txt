@@ -1,1 +1,3 @@
 This is a file for Rutgers students to experiment with when learning about archiving GitHub repos at Zenodo.
+
+This is an edit added during the intertidal workshop. This is a simple example to highlight how to do this.
